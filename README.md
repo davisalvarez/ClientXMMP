@@ -30,15 +30,14 @@ source venv/bin/activate
 ## Features
 
 ### CRUD Usuario
-* crear usuario
-* inicar sesion
-* salir de plroblema 
+* Agregar Usuario.
+* Iniciar Sesion.
 
 ### Chat
-*  mostrar usuarios conectados
-*  agregar usuario
-*  mensaje personal
-* 
+*  Mostrar Usuarios en Linea.
+*  Agregar Usuario.
+*  Mensaje personal.
+*  Mensaje grupal.
 
 ## Bibliotecas
 
